@@ -1,0 +1,3 @@
+Python fundamentals in mathematics - 2022
+
+Some examples done during the course, but not from the course...
